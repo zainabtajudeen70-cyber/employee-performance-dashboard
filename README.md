@@ -3,7 +3,9 @@
 ## 📊 Project Overview
 
 This project is an Employee Performance Dashboard developed to analyze employee performance, salary, attendance, and workforce trends.
+## 📊 Dashboard Preview
 
+![Employee Performance Dashboard](ChatGPT%20Image%20Oct%203,%202026,%2012_28_51%20AM.png)
 The project demonstrates my ability to collect, clean, transform, analyze, and visualize data using Excel, SQL, Power Query, and Power BI.
 
 ## 🎯 Business Objective
